@@ -105,7 +105,8 @@ cap.release()
 ## Output
 
 ### i) Write the frame as JPG image
-<img width="616" height="456" alt="image" src="https://github.com/user-attachments/assets/fa323ea7-1a04-42a5-900a-9db04dd927f7" />
+<img width="512" height="411" alt="Untitled-1" src="https://github.com/user-attachments/assets/fd229fae-967f-4492-9f05-a09eb362b0a1" />
+
 
 
 ### ii) Display the video
